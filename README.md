@@ -4,3 +4,5 @@ Peer-to-peer network implementation is added.
 Note, I made a mistake in April 2022 when I tried to update the old .rar file to .zip files. 
 I did not upload correct Chapter 9 codes for edition 2. This problem was corrected on May 3, 2022. 
 Sorry for the confusion and thanks.
+
+On 11-14-2024, found a MS Word single quotation mark inside the class Wallet.java. Fixed it in both Chapter 9 and Chapter 10.
